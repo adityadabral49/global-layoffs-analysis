@@ -1,0 +1,15 @@
+Tableau Dashboard – Global Layoffs Analysis
+( Dashboard : https://public.tableau.com/views/World_Layoffs_Analysis_Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
+
+This dashboard focuses on exploratory and descriptive analysis of global layoffs
+during the COVID-19 pandemic.
+
+Key elements include:
+- Industry-wise layoffs distribution
+- Funding Impact across company stages
+- Year-over-year layoff and geographic layoffs trends
+- Interactive filters for year and industry
+
+Purpose:
+To identify patterns, trends, and high-impact sectors affected by layoffs
+and support exploratory business analysis.
